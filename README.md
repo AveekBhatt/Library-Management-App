@@ -320,6 +320,4 @@ Borrow/Return books.
 
 Search across all books.
 
-Would you like me to now combine backend + frontend into a single System Workflow Document (so you see how everything connects end-to-end)?
-
 
